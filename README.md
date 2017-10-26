@@ -1,12 +1,12 @@
 # Issue Tracker API
 
 ## Docs
-See the report of Issue Tracker Application [here](https://github.com/avounotr/issue-tracker-app/blob/master/doc/IssueTrackerReport.pdf) and
+See the report of Issue Tracker Application [here](https://github.com/avounotr/issue-tracker-app/blob/master/docs/IssueTrackerReport.pdf) and
 [here](https://s3.eu-central-1.amazonaws.com/asterios-issue-tracker/IssueTrackerReport.pdf)
 
 ## Demo of the Application
 Issue tracker Backend deployed on EC2 server and the Frontend application uploaded on
-S3. So, this is the [Demo](https://s3.eu-central-1.amazonaws.com/asterios-issue-tracker)
+S3. So, this is the [Demo](http://asterios-issue-tracker.s3-website.eu-central-1.amazonaws.com/)
 
 ## Setup the application locally  
 
